@@ -54,7 +54,6 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINASSAU, e estou d
 <br/>
 <br/>
 
-/*
 ### 📊 Estatísticas
 
 <p>
@@ -65,13 +64,3 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINASSAU, e estou d
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabrielaAraujo2&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaAraujo2&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-*/
