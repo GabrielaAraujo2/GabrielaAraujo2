@@ -54,6 +54,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINASSAU, e estou d
 <br/>
 <br/>
 
+/*
 ### 📊 Estatísticas
 
 <p>
@@ -73,3 +74,4 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINASSAU, e estou d
   />
 
 </p>
+*/
