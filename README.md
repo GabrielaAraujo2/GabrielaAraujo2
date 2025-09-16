@@ -7,9 +7,9 @@
 Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINASSAU, e estou dando meus primeiros passos no mundo da tecnologia — uma área que sempre me encantou. Tenho um interesse especial pelo universo da programação e adoro explorar o lado desenvolvedor das coisas.
 
 <div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/gabriela-araujo-559bb629b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gabrielarj.art@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://discordapp.com/users/ilustraher" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
 </div>
